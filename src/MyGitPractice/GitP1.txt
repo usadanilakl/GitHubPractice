@@ -1,1 +1,3 @@
 Hello I started learning Git
+
+Someone change an existing document
